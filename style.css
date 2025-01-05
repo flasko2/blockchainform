@@ -7,11 +7,12 @@ body {
     justify-content: center;
     align-items: center;
     height: 100vh;
+    overlay:hidden;
   }
   #svg2 image{
     filter: brightness(0)
     invert(1)
-    ;
+    ; 
   }
   
   .login-container {
@@ -110,7 +111,7 @@ body {
   }
 @media (max-width: 768px){
     .container{
-        max-width:90%;
+        max-width:100%;
         padding:10px;
     }
 }
