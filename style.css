@@ -108,6 +108,12 @@ body {
   .fa-envelope{
     font-size: 23px;
   }
+@media (max-width: 768px){
+    .login-container{
+        max-width:90%;
+        padding:10px;
+    }
+}
   .fa-apple{
     font-size: 25px;
   }
