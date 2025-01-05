@@ -109,7 +109,7 @@ body {
     font-size: 23px;
   }
 @media (max-width: 768px){
-    .login-container{
+    .container{
         max-width:90%;
         padding:10px;
     }
