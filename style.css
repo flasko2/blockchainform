@@ -7,7 +7,7 @@ body {
     justify-content: center;
     align-items: center;
     height: 90vh;
-    overlay:hidden;
+    overflow:hidden;
   }
   #svg2 image{
     filter: brightness(0)
